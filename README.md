@@ -1,0 +1,8 @@
+# ajitr66.github.io
+
+Root of my GitHub Pages site. Each project is published under its own path:
+
+- [FSC Plotter](https://ajitr66.github.io/fsc-plotter/): 0.143 and 0.5 resolution table for cryoSPARC FSC curves
+
+`google4746cb703b7161cf.html` verifies the site in Google Search Console, which covers every
+project under `ajitr66.github.io`. Don't delete it.
